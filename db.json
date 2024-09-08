@@ -1,0 +1,52 @@
+{
+  "homes": [
+    {
+      "id": "1",
+      "title": "Ajay Villa",
+      "price": "₹1,20,00,000",
+      "location": "Lucknow, UP",
+      "address": "12, Green Park, Lucknow, UP 226001",
+      "latitude": 26.8467,
+      "longitude": 80.9462,
+      "description": "A spacious villa with modern amenities, a large garden, and top-notch security. Ideal for families seeking comfort and luxury in a serene environment.",
+      "image": "https://via.placeholder.com/150",
+      "locked": true
+    },
+    {
+      "id": "2",
+      "title": "Contemporary Apartment",
+      "price": "₹75,00,000",
+      "location": "Lucknow, UP",
+      "address": "34, Shankar Vihar, Lucknow, UP 226004",
+      "latitude": 26.847,
+      "longitude": 80.9448,
+      "description": "A stylish apartment with sleek interiors, a community pool, and easy access to local amenities. Perfect for professionals and small families.",
+      "image": "https://via.placeholder.com/150",
+      "locked": true
+    },
+    {
+      "id": "3",
+      "title": "Charming Bungalow",
+      "price": "₹35,00,000",
+      "location": "Lucknow, UP",
+      "address": "56, Indira Nagar, Lucknow, UP 226016",
+      "latitude": 26.8557,
+      "longitude": 80.947,
+      "description": "A quaint bungalow featuring a cozy interior, a lovely garden, and a friendly neighborhood. Ideal for those looking for a peaceful retreat in the city.",
+      "image": "https://via.placeholder.com/150",
+      "locked": true
+    },
+    {
+      "id": "4",
+      "title": "Modern Studio Apartment",
+      "price": "₹45,00,000",
+      "location": "Lucknow, UP",
+      "address": "23, Maple Road, Lucknow, UP 226005",
+      "latitude": 26.8821,
+      "longitude": 80.9641,
+      "description": "A compact and stylish studio apartment with contemporary design and all essential amenities. Perfect for singles or young professionals.",
+      "image": "https://via.placeholder.com/150",
+      "locked": false
+    }
+  ]
+}
