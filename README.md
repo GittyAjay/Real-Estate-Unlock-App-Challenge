@@ -36,14 +36,12 @@ cd Real-Estate-Unlock-App-Challenge
 3. Install Dependencies:
 Ensure you have Node.js and the Expo CLI installed, then run:
 
-bash
-Copy code
 npm install
-4. Setup json-server:
+###  5. Setup json-server:
 If you don't have json-server installed globally, run:
 
 npm install -g json-server
-Start the json-server:
+###  Start the json-server:
 json-server --watch db.json --port 3000
 This command starts json-server on port 3000, serving the data from src/mock/db.json.
 
